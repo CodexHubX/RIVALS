@@ -1,4 +1,4 @@
-local HookingService = loadstring(game:HttpGet("https://raw.githubusercontent.com/0zBug/HookingService/refs/heads/main/main.lua"))();
+local HookingService = loadstring(game:HttpGet("https://raw.githubusercontent.com/CodexHubX/LibraryMain/refs/heads/main/HookingService.lua"))();
 
 -- insert troll face, memcorruptv2
 local library = { 
